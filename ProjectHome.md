@@ -1,0 +1,3 @@
+I have created a file compressor in Java. File Squeezer is capable of creating compressed archives from single files or complex directory structures, whilst retaining relative paths. It utilises a bespoke data compression algorithm comprising sequential application of the Lempel-Ziv-Welch (LZW) algorithm followed by user­-selected Huffman or Arithmetic encoding. Other user-­selected options include: compressed file name, compression block size and retaining file time-stamps.
+
+https://sites.google.com/site/filesqueezer/
